@@ -159,6 +159,21 @@ font-size: 28px;
   width: 270px;
 height: 250px;
 }
+/* Health benefits of gym */
+.Health_benefits {
+  width: 100%;
+}
+.Health_benefits h3 {
+  font-size: 22px;
+  margin: 20px 0;
+}
+.Health_benefits  .child {
+  width: 100%;
+  height: 100%;
+}
+.child:nth-child(even) {
+  margin-left: 0;
+}
 
 footer{
   width:100%;

@@ -6,10 +6,6 @@
   text-decoration: none;
   list-style: none;
 }
-
-
-/* font-family: "Playwrite CU", cursive; */
-/* font-family: "Inter", sans-serif; */
 .backgroun_section {
  width:1440px;
   margin:0 auto;
@@ -68,7 +64,6 @@ border-radius: 18px;
   display: flex;
   justify-content: space-between;
   gap: 167px;
-  /* border: red 1px solid; */
 }
 .title_section h1{
   color: #fff;
@@ -380,7 +375,6 @@ color: #FFFFFF99;
 .Meet_Our_Team {
   width: 1060px;
   margin: 57px auto;
-  /* padding: 20px; */
 }
 .Meet_Our_Team h2{
 font-size: 48px;
@@ -442,7 +436,6 @@ margin-bottom: 50px;
 }
 .Health_benefits  .child {
   width: 70%;
-  /* background: #E6533C; */
   margin-bottom: 30px;
   padding: 20px;
   border-radius: 20px;
